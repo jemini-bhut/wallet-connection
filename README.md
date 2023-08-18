@@ -10,13 +10,13 @@ This repository contains code for connecting to a cryptocurrency wallet.
 
 ## Requirements
 
-* Node.js
 * NPM
 
 ## Installation
 
 1. Clone the repository.
-2. Install the dependencies.
+2. Install the dependencies (npm install).
+3. Run the project (npm start).
 
 <!--# Getting Started with Create React App
 
