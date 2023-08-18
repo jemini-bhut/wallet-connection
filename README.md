@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+# Wallet Connection
+
+This repository contains code for connecting to a cryptocurrency wallet.
+
+## Features
+
+* Connect to the wallet, such as Metamask.
+* Show current wallet address.
+* Display the total amount of ETH in the wallet.
+
+## Requirements
+
+* Node.js
+* NPM
+
+## Installation
+
+1. Clone the repository.
+2. Install the dependencies.
+
+<!--# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +88,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
